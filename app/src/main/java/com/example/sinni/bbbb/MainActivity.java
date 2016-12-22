@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
          super.onCreate(savedInstanceState);
          setContentView(R.layout.activity_main);
-         setTitle("Learn");
+         setTitle("Learn1234");
 
          findView();
          English.setOnClickListener(new View.OnClickListener() {
