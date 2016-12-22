@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Malaysia">ประเทศมาเลเซีย</string>
+    <string name="English">อังกฤษ</string>
+    <string name="Thai">ไทย</string>
+    <string name="Indonesia">อินโดนีเซีย</string>
+    <string name="Vietnam">เวียดนาม</string>
+    <string name="Philippines">ฟิลิปปินส์</string>
+</resources>

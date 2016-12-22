@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_text">Welcome!</string>
+    <string name="Malaysia">Malaysia</string>
+    <string name="English">English</string>
+    <string name="Thai">Thai</string>
+    <string name="Indonesia">Indonesia</string>
+    <string name="Vietnam">Vietnam</string>
+    <string name="Philippines">Philippines</string>
+</resources>

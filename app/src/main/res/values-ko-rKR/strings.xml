@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="I">나는</string>
+    <string name="welcome_text">환영!</string>
+    <string name="Malaysia">말레이시아</string>
+    <string name="English">영어</string>
+    <string name="Thai">타이어</string>
+    <string name="Indonesia">인도네시아</string>
+    <string name="Vietnam">베트남</string>
+    <string name="Philippines">필리핀</string>
+</resources>
